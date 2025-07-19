@@ -1,4 +1,4 @@
-package abstractFactory.checkbox;
+package abstractfactory.checkbox;
 
 public class HTMLCheckBox implements CheckBox {
 

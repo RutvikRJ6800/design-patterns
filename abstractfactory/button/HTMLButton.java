@@ -1,4 +1,4 @@
-package abstractFactory.button;
+package abstractfactory.button;
 
 public class HTMLButton implements Button {
     @Override

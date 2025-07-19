@@ -1,9 +1,9 @@
-package abstractFactory.guiFactory;
+package abstractfactory.guifactory;
 
-import abstractFactory.button.Button;
-import abstractFactory.button.HTMLButton;
-import abstractFactory.checkbox.CheckBox;
-import abstractFactory.checkbox.HTMLCheckBox;
+import abstractfactory.button.Button;
+import abstractfactory.button.HTMLButton;
+import abstractfactory.checkbox.CheckBox;
+import abstractfactory.checkbox.HTMLCheckBox;
 
 
 public class HTMLGUIFactory implements GUIFactory{

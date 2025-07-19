@@ -1,10 +1,10 @@
-package abstractFactory;
+package abstractfactory;
 
-import abstractFactory.button.Button;
-import abstractFactory.checkbox.CheckBox;
-import abstractFactory.guiFactory.GUIFactory;
-import abstractFactory.guiFactory.HTMLGUIFactory;
-import abstractFactory.guiFactory.LinuxGUIFactory;
+import abstractfactory.button.Button;
+import abstractfactory.checkbox.CheckBox;
+import abstractfactory.guifactory.GUIFactory;
+import abstractfactory.guifactory.HTMLGUIFactory;
+import abstractfactory.guifactory.LinuxGUIFactory;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package abstractFactory.button;
+package abstractfactory.button;
 
 public class LinuxButton implements Button {
     @Override

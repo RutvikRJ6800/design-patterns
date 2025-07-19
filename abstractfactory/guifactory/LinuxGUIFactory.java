@@ -1,9 +1,9 @@
-package abstractFactory.guiFactory;
+package abstractfactory.guifactory;
 
-import abstractFactory.button.Button;
-import abstractFactory.button.LinuxButton;
-import abstractFactory.checkbox.CheckBox;
-import abstractFactory.checkbox.LinuxCheckBox;
+import abstractfactory.button.Button;
+import abstractfactory.button.LinuxButton;
+import abstractfactory.checkbox.CheckBox;
+import abstractfactory.checkbox.LinuxCheckBox;
 
 public class LinuxGUIFactory implements GUIFactory{
     /**
